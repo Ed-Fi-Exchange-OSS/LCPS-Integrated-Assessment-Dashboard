@@ -1,4 +1,4 @@
-# {Insert Repository Name Here}
+# LCPS-Integrated-Assessment-Dashboard
 
 {Insert project information here}
 
